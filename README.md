@@ -47,7 +47,7 @@ contract MyToken {
 * After the contract has been successfully compiled, you may deploy it by selecting the "Deploy & Run Transactions" tab from the left-hand sidebar, which is located right below the Solidity Compiler tab. Click the "Deploy" button after selecting the "myToken" contract from the drop-down menu.
 
 
-* From there, you may view the contract that has been deployed and perform transactions using the Mint function, which works to add tokens, the Burn function, which subtracts tokens from addresses, and the Balance function, which shows the tokens' current balance.
+* From there, you may view the contract that has been deployed and perform transactions using the Mint function, which works to add tokens, the Burn function, which subtracts tokens from addresses, and the wallet function, which shows the tokens' current balance.
 
 
 ## Author
