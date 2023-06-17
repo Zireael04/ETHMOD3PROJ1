@@ -12,7 +12,7 @@ In order to demonstrate how Solidity works, this software creates or distributes
 
 To run this program, you should use Remix, which is an online Solidity IDE. https://remix.ethereum.org/.
 
-### Executing program
+### Running the program
 
 Depending on how you want to use the IDE, click the "+" button in the sidebar on the left to either create a new workspace for yourself or a fresh workspace within the currently selected workspace. Save the document afterwards with a.sol extension (for example, HotDogger.sol). The code below should be copied and pasted into the file:
 ```
